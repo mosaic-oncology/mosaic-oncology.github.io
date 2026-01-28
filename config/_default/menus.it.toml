@@ -1,0 +1,9 @@
+############# Italian navigation ##############
+
+# main menu
+[[main]]
+name = "Contact us"
+url = "mailto:contact@mosaic-oncology.com"
+weight = 1
+
+# no footer menu entries for the minimal site
