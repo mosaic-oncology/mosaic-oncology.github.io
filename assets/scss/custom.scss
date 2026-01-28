@@ -1,1 +1,67 @@
-// Add your custom code
+// Custom styles for Mosaic splash page
+
+// Make the image fill the viewport height (minus header) without cropping.
+// If the image is wider than the viewport, it will letterbox horizontally.
+.mosaic-splash {
+  padding: 0;
+  margin: -40px 0 0;
+  width: 100%;
+  display: block;
+  overflow-x: hidden;
+}
+
+.mosaic-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+// Make "Mosaic" text larger and darker gray
+.navigation .navbar-brand {
+  font-size: 28px;
+  font-weight: 600;
+  color: #7b7b7b !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: flex-end;
+}
+
+// Reduce space between header and image
+.navigation {
+  padding: 8px 0;
+  margin-bottom: 0;
+}
+
+// Remove any extra padding from main
+main {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+// Layout: make main fill the viewport below the header
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 1 auto;
+  min-height: 0;
+}
+
+// Prevent any footer block from taking space
+footer {
+  display: none;
+}
+
+

@@ -1,6 +1,6 @@
 {
-  "name": "Mosaic",
-  "short_name": "Mosaic",
+  "name": "Mosaic Oncology",
+  "short_name": "Mosaic Oncology",
   "lang": "en-US",
   "theme_color": "#655e7a",
   "background_color": "#fff",
@@ -50,5 +50,5 @@
   
   
   "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
+  "start_url": "//localhost:1313/?utm_source=web_app_manifest"
 }
