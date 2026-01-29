@@ -2,401 +2,401 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://mosaic-oncology.github.io/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//localhost:1313/it/"
+                href="https://mosaic-oncology.github.io/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/"
+                href="https://mosaic-oncology.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/"
+                href="https://mosaic-oncology.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/"
+                href="https://mosaic-oncology.github.io/"
                 />
   </url><url>
-    <loc>//localhost:1313/english/</loc>
+    <loc>https://mosaic-oncology.github.io/english/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/</loc>
+    <loc>https://mosaic-oncology.github.io/french/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/</loc>
+    <loc>https://mosaic-oncology.github.io/german/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/faq/</loc>
+    <loc>https://mosaic-oncology.github.io/english/faq/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/faq/</loc>
+    <loc>https://mosaic-oncology.github.io/faq/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/faq/</loc>
+    <loc>https://mosaic-oncology.github.io/french/faq/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/faq/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/faq/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/faq/</loc>
+    <loc>https://mosaic-oncology.github.io/german/faq/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://mosaic-oncology.github.io/categories/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/categories/"
+                href="https://mosaic-oncology.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/categories/"
+                href="https://mosaic-oncology.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//localhost:1313/it/categories/"
+                href="https://mosaic-oncology.github.io/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/categories/"
+                href="https://mosaic-oncology.github.io/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/how-to/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/how-to/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>https://mosaic-oncology.github.io/blog/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/blog/</loc>
+    <loc>https://mosaic-oncology.github.io/english/blog/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/blog/</loc>
+    <loc>https://mosaic-oncology.github.io/french/blog/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/blog/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/blog/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/blog/</loc>
+    <loc>https://mosaic-oncology.github.io/german/blog/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/date-i18n/</loc>
+    <loc>https://mosaic-oncology.github.io/blog/date-i18n/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/blog/date-i18n/</loc>
+    <loc>https://mosaic-oncology.github.io/english/blog/date-i18n/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/blog/date-i18n/</loc>
+    <loc>https://mosaic-oncology.github.io/french/blog/date-i18n/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/blog/date-i18n/</loc>
+    <loc>https://mosaic-oncology.github.io/german/blog/date-i18n/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/blog/date-i18n/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/blog/date-i18n/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/"
+                href="https://mosaic-oncology.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/tags/"
+                href="https://mosaic-oncology.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//localhost:1313/it/tags/"
+                href="https://mosaic-oncology.github.io/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/"
+                href="https://mosaic-oncology.github.io/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/technical-assistance/</loc>
+    <loc>https://mosaic-oncology.github.io/categories/technical-assistance/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/technology/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/technology/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/advice/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/advice/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ai/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/ai/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/android/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/android/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/artificial-intelligence/</loc>
+    <loc>https://mosaic-oncology.github.io/categories/artificial-intelligence/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/company/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/company/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/company-news/</loc>
+    <loc>https://mosaic-oncology.github.io/categories/company-news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/blog-post-1/</loc>
+    <loc>https://mosaic-oncology.github.io/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/blog-post-2/</loc>
+    <loc>https://mosaic-oncology.github.io/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/blog-post-3/</loc>
+    <loc>https://mosaic-oncology.github.io/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/blog-post-4/</loc>
+    <loc>https://mosaic-oncology.github.io/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/blog-post-5/</loc>
+    <loc>https://mosaic-oncology.github.io/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/blog-post-6/</loc>
+    <loc>https://mosaic-oncology.github.io/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/blog/blog-post-1/</loc>
+    <loc>https://mosaic-oncology.github.io/english/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/blog/blog-post-2/</loc>
+    <loc>https://mosaic-oncology.github.io/english/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/blog/blog-post-3/</loc>
+    <loc>https://mosaic-oncology.github.io/english/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/blog/blog-post-4/</loc>
+    <loc>https://mosaic-oncology.github.io/english/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/blog/blog-post-5/</loc>
+    <loc>https://mosaic-oncology.github.io/english/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/blog/blog-post-6/</loc>
+    <loc>https://mosaic-oncology.github.io/english/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/blog/blog-post-1/</loc>
+    <loc>https://mosaic-oncology.github.io/french/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/blog/blog-post-2/</loc>
+    <loc>https://mosaic-oncology.github.io/french/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/blog/blog-post-3/</loc>
+    <loc>https://mosaic-oncology.github.io/french/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/blog/blog-post-4/</loc>
+    <loc>https://mosaic-oncology.github.io/french/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/blog/blog-post-5/</loc>
+    <loc>https://mosaic-oncology.github.io/french/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/french/blog/blog-post-6/</loc>
+    <loc>https://mosaic-oncology.github.io/french/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/blog/blog-post-1/</loc>
+    <loc>https://mosaic-oncology.github.io/german/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/blog/blog-post-2/</loc>
+    <loc>https://mosaic-oncology.github.io/german/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/blog/blog-post-3/</loc>
+    <loc>https://mosaic-oncology.github.io/german/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/blog/blog-post-4/</loc>
+    <loc>https://mosaic-oncology.github.io/german/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/blog/blog-post-5/</loc>
+    <loc>https://mosaic-oncology.github.io/german/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/german/blog/blog-post-6/</loc>
+    <loc>https://mosaic-oncology.github.io/german/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/blog/blog-post-1/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/blog/blog-post-2/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/blog/blog-post-3/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/blog/blog-post-4/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/blog/blog-post-5/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/italian/blog/blog-post-6/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/legacy-support/</loc>
+    <loc>https://mosaic-oncology.github.io/categories/legacy-support/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/mechine/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/mechine/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/news/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/retro/</loc>
+    <loc>https://mosaic-oncology.github.io/tags/retro/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/english/message_sent/</loc>
+    <loc>https://mosaic-oncology.github.io/english/message_sent/</loc>
   </url><url>
-    <loc>//localhost:1313/french/message_sent/</loc>
+    <loc>https://mosaic-oncology.github.io/french/message_sent/</loc>
   </url><url>
-    <loc>//localhost:1313/german/message_sent/</loc>
+    <loc>https://mosaic-oncology.github.io/german/message_sent/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/message_sent/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/message_sent/</loc>
   </url><url>
-    <loc>//localhost:1313/message_sent/</loc>
+    <loc>https://mosaic-oncology.github.io/message_sent/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>https://mosaic-oncology.github.io/about/</loc>
   </url><url>
-    <loc>//localhost:1313/english/about/</loc>
+    <loc>https://mosaic-oncology.github.io/english/about/</loc>
   </url><url>
-    <loc>//localhost:1313/french/about/</loc>
+    <loc>https://mosaic-oncology.github.io/french/about/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/about/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/about/</loc>
   </url><url>
-    <loc>//localhost:1313/author/</loc>
+    <loc>https://mosaic-oncology.github.io/author/</loc>
   </url><url>
-    <loc>//localhost:1313/german/service/</loc>
+    <loc>https://mosaic-oncology.github.io/german/service/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>https://mosaic-oncology.github.io/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/english/contact/</loc>
+    <loc>https://mosaic-oncology.github.io/english/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/french/contact/</loc>
+    <loc>https://mosaic-oncology.github.io/french/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/contact/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/author/john-doe/</loc>
+    <loc>https://mosaic-oncology.github.io/author/john-doe/</loc>
   </url><url>
-    <loc>//localhost:1313/english/author/john-doe/</loc>
+    <loc>https://mosaic-oncology.github.io/english/author/john-doe/</loc>
   </url><url>
-    <loc>//localhost:1313/french/author/john-doe/</loc>
+    <loc>https://mosaic-oncology.github.io/french/author/john-doe/</loc>
   </url><url>
-    <loc>//localhost:1313/german/author/john-doe/</loc>
+    <loc>https://mosaic-oncology.github.io/german/author/john-doe/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/author/john-doe/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/author/john-doe/</loc>
   </url><url>
-    <loc>//localhost:1313/author/mark-dinn/</loc>
+    <loc>https://mosaic-oncology.github.io/author/mark-dinn/</loc>
   </url><url>
-    <loc>//localhost:1313/english/author/mark-dinn/</loc>
+    <loc>https://mosaic-oncology.github.io/english/author/mark-dinn/</loc>
   </url><url>
-    <loc>//localhost:1313/french/author/mark-dinn/</loc>
+    <loc>https://mosaic-oncology.github.io/french/author/mark-dinn/</loc>
   </url><url>
-    <loc>//localhost:1313/german/author/mark-dinn/</loc>
+    <loc>https://mosaic-oncology.github.io/german/author/mark-dinn/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/author/mark-dinn/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/author/mark-dinn/</loc>
   </url><url>
-    <loc>//localhost:1313/english/pricing/</loc>
+    <loc>https://mosaic-oncology.github.io/english/pricing/</loc>
   </url><url>
-    <loc>//localhost:1313/french/pricing/</loc>
+    <loc>https://mosaic-oncology.github.io/french/pricing/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/pricing/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/pricing/</loc>
   </url><url>
-    <loc>//localhost:1313/pricing/</loc>
+    <loc>https://mosaic-oncology.github.io/pricing/</loc>
   </url><url>
-    <loc>//localhost:1313/english/project/</loc>
+    <loc>https://mosaic-oncology.github.io/english/project/</loc>
   </url><url>
-    <loc>//localhost:1313/french/project/</loc>
+    <loc>https://mosaic-oncology.github.io/french/project/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/project/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/project/</loc>
   </url><url>
-    <loc>//localhost:1313/project/</loc>
+    <loc>https://mosaic-oncology.github.io/project/</loc>
   </url><url>
-    <loc>//localhost:1313/english/project/rio-furniture-1/</loc>
+    <loc>https://mosaic-oncology.github.io/english/project/rio-furniture-1/</loc>
   </url><url>
-    <loc>//localhost:1313/english/project/rio-furniture-2/</loc>
+    <loc>https://mosaic-oncology.github.io/english/project/rio-furniture-2/</loc>
   </url><url>
-    <loc>//localhost:1313/english/project/rio-furniture-3/</loc>
+    <loc>https://mosaic-oncology.github.io/english/project/rio-furniture-3/</loc>
   </url><url>
-    <loc>//localhost:1313/english/project/rio-furniture-4/</loc>
+    <loc>https://mosaic-oncology.github.io/english/project/rio-furniture-4/</loc>
   </url><url>
-    <loc>//localhost:1313/english/project/rio-furniture-5/</loc>
+    <loc>https://mosaic-oncology.github.io/english/project/rio-furniture-5/</loc>
   </url><url>
-    <loc>//localhost:1313/english/project/rio-furniture-6/</loc>
+    <loc>https://mosaic-oncology.github.io/english/project/rio-furniture-6/</loc>
   </url><url>
-    <loc>//localhost:1313/french/project/rio-furniture-1/</loc>
+    <loc>https://mosaic-oncology.github.io/french/project/rio-furniture-1/</loc>
   </url><url>
-    <loc>//localhost:1313/french/project/rio-furniture-2/</loc>
+    <loc>https://mosaic-oncology.github.io/french/project/rio-furniture-2/</loc>
   </url><url>
-    <loc>//localhost:1313/french/project/rio-furniture-3/</loc>
+    <loc>https://mosaic-oncology.github.io/french/project/rio-furniture-3/</loc>
   </url><url>
-    <loc>//localhost:1313/french/project/rio-furniture-4/</loc>
+    <loc>https://mosaic-oncology.github.io/french/project/rio-furniture-4/</loc>
   </url><url>
-    <loc>//localhost:1313/french/project/rio-furniture-5/</loc>
+    <loc>https://mosaic-oncology.github.io/french/project/rio-furniture-5/</loc>
   </url><url>
-    <loc>//localhost:1313/french/project/rio-furniture-6/</loc>
+    <loc>https://mosaic-oncology.github.io/french/project/rio-furniture-6/</loc>
   </url><url>
-    <loc>//localhost:1313/german/project/rio-furniture-1/</loc>
+    <loc>https://mosaic-oncology.github.io/german/project/rio-furniture-1/</loc>
   </url><url>
-    <loc>//localhost:1313/german/project/rio-furniture-2/</loc>
+    <loc>https://mosaic-oncology.github.io/german/project/rio-furniture-2/</loc>
   </url><url>
-    <loc>//localhost:1313/german/project/rio-furniture-3/</loc>
+    <loc>https://mosaic-oncology.github.io/german/project/rio-furniture-3/</loc>
   </url><url>
-    <loc>//localhost:1313/german/project/rio-furniture-4/</loc>
+    <loc>https://mosaic-oncology.github.io/german/project/rio-furniture-4/</loc>
   </url><url>
-    <loc>//localhost:1313/german/project/rio-furniture-5/</loc>
+    <loc>https://mosaic-oncology.github.io/german/project/rio-furniture-5/</loc>
   </url><url>
-    <loc>//localhost:1313/german/project/rio-furniture-6/</loc>
+    <loc>https://mosaic-oncology.github.io/german/project/rio-furniture-6/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/project/rio-furniture-1/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/project/rio-furniture-1/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/project/rio-furniture-2/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/project/rio-furniture-2/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/project/rio-furniture-3/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/project/rio-furniture-3/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/project/rio-furniture-4/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/project/rio-furniture-4/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/project/rio-furniture-5/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/project/rio-furniture-5/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/project/rio-furniture-6/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/project/rio-furniture-6/</loc>
   </url><url>
-    <loc>//localhost:1313/project/rio-furniture-1/</loc>
+    <loc>https://mosaic-oncology.github.io/project/rio-furniture-1/</loc>
   </url><url>
-    <loc>//localhost:1313/project/rio-furniture-2/</loc>
+    <loc>https://mosaic-oncology.github.io/project/rio-furniture-2/</loc>
   </url><url>
-    <loc>//localhost:1313/project/rio-furniture-3/</loc>
+    <loc>https://mosaic-oncology.github.io/project/rio-furniture-3/</loc>
   </url><url>
-    <loc>//localhost:1313/project/rio-furniture-4/</loc>
+    <loc>https://mosaic-oncology.github.io/project/rio-furniture-4/</loc>
   </url><url>
-    <loc>//localhost:1313/project/rio-furniture-5/</loc>
+    <loc>https://mosaic-oncology.github.io/project/rio-furniture-5/</loc>
   </url><url>
-    <loc>//localhost:1313/project/rio-furniture-6/</loc>
+    <loc>https://mosaic-oncology.github.io/project/rio-furniture-6/</loc>
   </url><url>
-    <loc>//localhost:1313/german/contact/</loc>
+    <loc>https://mosaic-oncology.github.io/german/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/english/service/</loc>
+    <loc>https://mosaic-oncology.github.io/english/service/</loc>
   </url><url>
-    <loc>//localhost:1313/french/service/</loc>
+    <loc>https://mosaic-oncology.github.io/french/service/</loc>
   </url><url>
-    <loc>//localhost:1313/italian/service/</loc>
+    <loc>https://mosaic-oncology.github.io/italian/service/</loc>
   </url><url>
-    <loc>//localhost:1313/service/</loc>
+    <loc>https://mosaic-oncology.github.io/service/</loc>
   </url><url>
-    <loc>//localhost:1313/german/about/</loc>
+    <loc>https://mosaic-oncology.github.io/german/about/</loc>
   </url><url>
-    <loc>//localhost:1313/german/project/</loc>
+    <loc>https://mosaic-oncology.github.io/german/project/</loc>
   </url><url>
-    <loc>//localhost:1313/german/pricing/</loc>
+    <loc>https://mosaic-oncology.github.io/german/pricing/</loc>
   </url>
 </urlset>
