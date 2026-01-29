@@ -6,8 +6,8 @@
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/"
+                hreflang="it"
+                href="//localhost:1313/it/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -16,8 +16,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="//localhost:1313/it/"
+                hreflang="fr"
+                href="//localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -112,6 +112,11 @@
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="//localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="//localhost:1313/fr/tags/"
                 />
@@ -119,11 +124,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="//localhost:1313/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"

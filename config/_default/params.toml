@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = ""
+favicon = "images/favicon.png"
 # logo
 # disable image logo so we can use simple text logo instead
 logo = ""

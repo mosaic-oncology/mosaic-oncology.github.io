@@ -54,13 +54,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/tags/"
+                hreflang="it"
+                href="//localhost:1313/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="//localhost:1313/it/tags/"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"

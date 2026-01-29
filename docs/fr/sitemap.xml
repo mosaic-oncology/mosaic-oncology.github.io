@@ -32,13 +32,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/"
+                hreflang="it"
+                href="//localhost:1313/it/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="//localhost:1313/it/"
+                hreflang="de"
+                href="//localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
