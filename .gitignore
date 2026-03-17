@@ -9,7 +9,6 @@ node_modules
 builds
 package-lock.json
 public
-docs
 resources
 .hugo_build.lock
 jsconfig.json

@@ -17,10 +17,8 @@ disableLanguages = [
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 ############################ Publish directory #########################
-# GitHub Actions workflow deploys from `public/` (the Hugo default).
-# publishDir is left at default ("public") so CI works correctly.
-
-
+# GitHub Pages serves from the `docs` folder on the main branch.
+publishDir = "docs"
 
 [services]
 [services.googleAnalytics]
