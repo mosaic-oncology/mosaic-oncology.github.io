@@ -1,6 +1,10 @@
 {{ define "main" }}
-<section class="mosaic-splash">
-  <img src="{{ "images/mosaic3.jpg" | absURL }}" alt="Mosaic" class="mosaic-image">
+<section class="splash" style="background-image: url('{{ "images/mosaic3.jpg" | absURL }}');">
+  <div class="splash-overlay"></div>
+  <div class="splash-content">
+    <img src="{{ "images/mosaic-logo.png" | absURL }}" alt="Mosaic Oncology" class="splash-logo">
+    <a href="mailto:contact@mosaic-oncology.com" class="splash-cta">Get in touch</a>
+  </div>
 </section>
 {{ end }}
 

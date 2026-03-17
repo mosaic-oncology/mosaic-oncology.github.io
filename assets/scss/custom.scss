@@ -1,52 +1,14 @@
-// Custom styles for Mosaic splash page
+// ── Splash page ──────────────────────────────────────────────
 
-// Make the image fill the viewport height (minus header) without cropping.
-// If the image is wider than the viewport, it will letterbox horizontally.
-.mosaic-splash {
-  padding: 0;
-  margin: -40px 0 0;
-  width: 100%;
-  display: block;
-  overflow-x: hidden;
-}
+// Hide theme chrome on homepage – header & footer are not needed
+.navigation { display: none; }
+footer       { display: none; }
 
-.mosaic-image {
-  width: 100%;
-  height: auto;
-  display: block;
-  margin: 0;
-  padding: 0;
-}
-
-// Make "Mosaic" text larger and darker gray
-.navigation .navbar-brand {
-  font-size: 28px;
-  font-weight: 600;
-  color: #7b7b7b !important;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  line-height: 1;
-  display: inline-flex;
-  align-items: flex-end;
-}
-
-// Reduce space between header and image
-.navigation {
-  padding: 8px 0;
-  margin-bottom: 0;
-}
-
-// Remove any extra padding from main
-main {
-  margin-top: 0;
-  padding-top: 0;
-}
-
-// Layout: make main fill the viewport below the header
-html,
-body {
+// Full-viewport splash
+html, body {
   height: 100%;
   margin: 0;
+  overflow: hidden;         // no scroll on the splash page
 }
 
 body {
@@ -57,11 +19,114 @@ body {
 main {
   flex: 1 1 auto;
   min-height: 0;
+  margin: 0;
+  padding: 0;
 }
 
-// Prevent any footer block from taking space
-footer {
-  display: none;
+.splash {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+// Subtle dark veil so logo reads clearly over any part of the mosaic
+.splash-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.32);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.splash-content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+// Logo – constrain width so it looks right on all screens
+.splash-logo {
+  width: 72vw;
+  max-width: 420px;
+  height: auto;
+  filter: drop-shadow(0 2px 12px rgba(0, 0, 0, 0.25));
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+// CTA button – understated, sans-serif, with contemporary hover lift
+.splash-cta {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 0.95rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 2px;
+  padding: 0.75rem 2.4rem;
+  text-decoration: none;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  background: rgba(255, 255, 255, 0.06);
+  transition: transform 0.3s ease,
+              background 0.3s ease,
+              border-color 0.3s ease,
+              box-shadow 0.3s ease;
+  will-change: transform;
+}
+
+.splash-cta:hover,
+.splash-cta:focus-visible {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.9);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  color: #fff;
+  text-decoration: none;
+  outline: none;
+}
+
+.splash-cta:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+// ── Responsive tweaks ────────────────────────────────────────
+
+@media (max-width: 600px) {
+  .splash-logo {
+    width: 78vw;
+  }
+
+  .splash-cta {
+    font-size: 0.85rem;
+    padding: 0.65rem 1.8rem;
+  }
+}
+
+// Tall-narrow phones in portrait – keep logo from being too close to top
+@media (max-height: 500px) {
+  .splash-content {
+    gap: 1.2rem;
+  }
+  .splash-logo {
+    width: 50vw;
+    max-width: 320px;
+  }
 }
 
 
