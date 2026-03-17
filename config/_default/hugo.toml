@@ -17,8 +17,8 @@ disableLanguages = [
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 ############################ Publish directory #########################
-# Build the static site into the `docs` folder so GitHub Pages can serve from there.
-publishDir = "docs"
+# GitHub Actions workflow deploys from `public/` (the Hugo default).
+# publishDir is left at default ("public") so CI works correctly.
 
 
 
