@@ -32,13 +32,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
+                hreflang="it"
+                href="http://localhost:1313/it/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="http://localhost:1313/it/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -54,13 +54,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="http://localhost:1313/it/tags/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                hreflang="it"
+                href="http://localhost:1313/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
